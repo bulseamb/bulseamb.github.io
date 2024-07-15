@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bulseamb.github.io/sitemap
+Sitemap: https://bulseamb.github.io/app/sitemap
+Sitemap: https://bulseamb.github.io/assets/sitemap
+Sitemap: https://bulseamb.github.io/css/sitemap
+Sitemap: https://bulseamb.github.io/includes/sitemap
+Sitemap: https://bulseamb.github.io/item/sitemap
+Sitemap: https://bulseamb.github.io/src/sitemap
